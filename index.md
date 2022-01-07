@@ -15,11 +15,15 @@
 Beginning in 2019 the world has been under the effect of a global pandemic caused by SARS-CoV-2 infecting over 134 million people, resulting in approximately three million deaths globally, several shutdowns, a dangerously high burden on the healthcare system, and preventing access to care for those who need it. In this paper we give an overview of the machine learning approaches applied to COVID-19 pandemic-related problems. In this overview we cover the topics of evaluation of COVID-19 pandemic policies, prediction of COVID-19 pandemic progress, contact tracing, infection detection, and bio and pharmaceutical applications of machine learning. In particular, we provide an overview of the machine learning approaches utilized in these pandemic-related problems including convolutional neural networks, reinforcement learning, and graph neural networks. Finally, we discuss the possible adverse effects of utilization of certain machine learning approaches in such a critical setup. We hope that our paper can provide a generalized compact guide to the COVID-19 pandemic and the machine learning perspective for upcoming future research.
 
 
-[[Paper IJCAI]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf)   [[PaperNeurIPS]](https://proceedings.mlr.press/v161/korkmaz21a.html)  [[Cite]](ekuaibibtex.html)
+[[Paper IJCAI]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf)    [[Paper NeurIPS]](https://proceedings.mlr.press/v161/korkmaz21a.html)  [[Cite]](ekuaibibtex.html)
 
 
 <br />
 <br />
+<br />
+<br />
+
+*This paper accepted as Oral Presentation in NeurIPS workshop.
 
 
 
