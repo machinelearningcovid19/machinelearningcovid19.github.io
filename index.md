@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<head>
+  <meta name="keywords" content="heathcare, machine learning, deep learning, ML, AI, artificial intelligence, COVID-19, Sars-CoV-2, pandemic, reinforcement learning, RL, biomedical, health, epidemic, AI alignment, machine learning explainability, ML interpretability">
+</head>
 
-You can use the [editor on GitHub](https://github.com/machinelearningcovid19/machinelearningcovid19.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div align="center">
+  Ezgi Korkmaz  <br />
+  International Joint Conference on Artificial Intelligence (IJCAI) Workshop on Artificial Intelligence for Social Good 2021 <br />
+  Conference on Neural Information Processing Systems (NeurIPS) Machine Learning in Public Health Workshop 2021
+  </div>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Abstract
 
-```markdown
-Syntax highlighted code block
+Beginning in 2019 the world has been under the effect of a global pandemic caused by SARS-CoV-2 infecting over 134 million people, resulting in approximately three million deaths globally, several shutdowns, a dangerously high burden on the healthcare system, and preventing access to care for those who need it. In this paper we give an overview of the machine learning approaches applied to COVID-19 pandemic-related problems. In this overview we cover the topics of evaluation of COVID-19 pandemic policies, prediction of COVID-19 pandemic progress, contact tracing, infection detection, and bio and pharmaceutical applications of machine learning. In particular, we provide an overview of the machine learning approaches utilized in these pandemic-related problems including convolutional neural networks, reinforcement learning, and graph neural networks. Finally, we discuss the possible adverse effects of utilization of certain machine learning approaches in such a critical setup. We hope that our paper can provide a generalized compact guide to the COVID-19 pandemic and the machine learning perspective for upcoming future research.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[[Paper IJCAI]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf)   [[PaperNeurIPS]](https://proceedings.mlr.press/v161/korkmaz21a.html)  [[Cite]](ekuaibibtex.html)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br />
+<br />
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/machinelearningcovid19/machinelearningcovid19.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
