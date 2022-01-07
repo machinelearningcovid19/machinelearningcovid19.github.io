@@ -1,5 +1,5 @@
 <head>
-  <meta name="keywords" content="heathcare, machine learning, deep learning, ML, AI, artificial intelligence, COVID-19, Sars-CoV-2, pandemic, reinforcement learning, RL, biomedical, health, epidemic, AI alignment, machine learning explainability, ML interpretability">
+  <meta name="keywords" content="heathcare, machine learning, deep learning, ML, AI, artificial intelligence, COVID-19, Sars-CoV-2, pandemic, medical, reinforcement learning, RL, biomedical, health, epidemic, infection, computer vision, CNN, neural networks, deep neural networks, artificial neural networks, pharmaceutical, pandemic progress, COVID-19 pandemic, GAN, recurrent network, LSTM, RL, GNN, graph neural networks">
 </head>
 
 
@@ -23,7 +23,7 @@ Beginning in 2019 the world has been under the effect of a global pandemic cause
 <br />
 <br />
 
-*This paper accepted as Oral Presentation in NeurIPS workshop.
+*This paper accepted as Oral Presentation in IJCAI and NeurIPS workshop.
 
 
 
